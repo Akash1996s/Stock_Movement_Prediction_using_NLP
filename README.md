@@ -1,4 +1,4 @@
-# Stock_Price_Prediction_using_BagOfWords
+# Stock_Movement_Prediction_using_BagOfWords
 * This project is to predict the movement of stock price as per top news headlines.
 
 The top 25 headlines were collected day wise and the movement of stock increased (1) or drop (0).
