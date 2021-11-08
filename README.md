@@ -13,3 +13,7 @@ The top 25 headlines were collected day wise and the movement of stock increased
 ## ML Modeling:
 1. Random Forest Classifier was giving the best accuracy score.
 
+![image](https://user-images.githubusercontent.com/51374209/140810914-872e3ebf-9220-4945-b035-7d3c85c36572.png)
+
+
+
